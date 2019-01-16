@@ -1,4 +1,4 @@
-package com.grammer.schedule.schedule;
+package com.grammer.schedule;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
